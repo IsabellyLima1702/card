@@ -36,6 +36,7 @@ disciplinas.forEach(criarItemMenu)
 
 /*
 //botao que cria outro botao
+
 const botaoTeste = document.getElementById('teste')
 
 function criarElementos(){

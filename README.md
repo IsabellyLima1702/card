@@ -16,6 +16,7 @@ Projeto para adicionar a barra de um site com icons e background que munda de co
 - CSS 
 - Markdown 
 - Git
+- JS
 
 --- 
 
