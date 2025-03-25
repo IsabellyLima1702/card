@@ -30,9 +30,6 @@ a{
     transition: .5s;
 }
 
-.menu a:hover{
-    background-color: var(--cor-hover);
-}
 
 .menu img{
     height: 30px;
